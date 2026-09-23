@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VerificadorPrimo {
+class VerificadorPrimo {
 
     public static boolean esPrimo(int n) {
         if (n <= 1) {
