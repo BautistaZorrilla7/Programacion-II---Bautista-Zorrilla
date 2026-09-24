@@ -29,4 +29,4 @@ class VerificadorPrimo {
 
         sc.close();
     }
-}
+} 
